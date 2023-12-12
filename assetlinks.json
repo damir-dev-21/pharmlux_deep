@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.venons.pharmlux",
-    "sha256_cert_fingerprints":
-    ["88:74:D9:73:51:CE:A4:83:5D:5C:5B:49:FE:FF:E3:14:BA:E8:A2:BA:3B:64:DD:96:2D:9B:28:73:E4:77:8E:E6"]
-  }
-}]
